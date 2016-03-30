@@ -4,7 +4,7 @@
 #
 Name     : rubygem-diffy
 Version  : 3.1.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/diffy-3.1.0.gem
 Source0  : https://rubygems.org/downloads/diffy-3.1.0.gem
 Summary  : No detailed summary available
@@ -63,60 +63,24 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/diffy-3.1.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/cdesc-Diff.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/default_format-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/default_options-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/diff-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/diff_bin-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/diff_options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/each-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/each_chunk-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/options-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/string1-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/string2-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/tempfile-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Diff/to_s-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Format/cdesc-Format.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Format/color-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Format/html-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Format/html_simple-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/Format/text-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/cdesc-HtmlFormatter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/clean_line-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/highlight-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/highlighted_words-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/reconstruct_characters-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/split_characters-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/to_s-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/wrap_line-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/HtmlFormatter/wrap_lines-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/SplitDiff/cdesc-SplitDiff.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/SplitDiff/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/SplitDiff/split-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/SplitDiff/split_left-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/SplitDiff/split_right-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/Diffy/cdesc-Diffy.ri
-/usr/lib64/ruby/gems/2.2.0/doc/diffy-3.1.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/.rspec
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/CONTRIBUTORS
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/diffy.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/css.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/diff.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/format.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/html_formatter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/split_diff.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/lib/diffy/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/spec/demo_app.rb
-/usr/lib64/ruby/gems/2.2.0/gems/diffy-3.1.0/spec/diffy_spec.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/diffy-3.1.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/diffy-3.1.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/.rspec
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/CONTRIBUTORS
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/diffy.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/css.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/diff.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/format.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/html_formatter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/split_diff.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/lib/diffy/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/spec/demo_app.rb
+/usr/lib64/ruby/gems/2.3.0/gems/diffy-3.1.0/spec/diffy_spec.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/diffy-3.1.0.gemspec
