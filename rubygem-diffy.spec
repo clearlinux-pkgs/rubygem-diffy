@@ -4,7 +4,7 @@
 #
 Name     : rubygem-diffy
 Version  : 3.1.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/diffy-3.1.0.gem
 Source0  : https://rubygems.org/downloads/diffy-3.1.0.gem
 Summary  : No detailed summary available
